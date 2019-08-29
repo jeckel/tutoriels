@@ -1,2 +1,5 @@
-#IDE files
-.idea/
+# IDE specifics
+**/.idea/
+
+# PHP
+**/vendor/
